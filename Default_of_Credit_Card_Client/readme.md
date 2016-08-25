@@ -2,12 +2,15 @@
 
 ##Source:
 
-Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
+Name: I-Cheng Yeh 
+email addresses: (1) icyeh '@' chu.edu.tw (2) 140910 '@' mail.tku.edu.tw 
+institutions: (1) Department of Information Management, Chung Hua University, Taiwan. (2) Department of Civil Engineering, Tamkang University, Taiwan. 
+other contact information: 886-2-26215656 ext. 3181 
 
 ##Abstract
 
-his is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
+ This research aimed at the case of customers default payments in Taiwan.
 
 ##Link
 
-https://archive.ics.uci.edu/ml/datasets/Online+Retail
+https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
