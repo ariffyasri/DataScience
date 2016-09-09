@@ -1,4 +1,4 @@
-#Medical Patient
+#Medical Dataset
 
 ##Source
 
@@ -6,7 +6,7 @@
 
 ##Abstract
 
-This dataset contains patients data in emergency department.
+Analysis on dataset contains patients data in emergency department.
 
 ##Link
 
