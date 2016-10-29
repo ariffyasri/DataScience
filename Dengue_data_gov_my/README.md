@@ -32,7 +32,9 @@ This application will also forecast the number of cases for the following year.
 
 ##Data Visualization
 
-So I will briefly explain the features/functions in the application. Besides that, you also can see the statistics of dengue in Malaysia from 2010 to 2016. Below is the screenshot of our main page in the application.
+The features in Dengue Alert are more to data visualization where the data will be display in a form of graph, heatmap and table. Below is the screenshot of our main page in the application.
+
+<img src="http://imgur.com/a/YQvjx" alt="Screenshot" style="display: inline; float: center"/>
 
 
 ##Prediction
