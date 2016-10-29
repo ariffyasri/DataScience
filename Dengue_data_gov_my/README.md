@@ -34,7 +34,7 @@ This application will also forecast the number of cases for the following year.
 
 The features in Dengue Alert are more to data visualization where the data will be display in a form of graph, heatmap and table. Below is the screenshot of our main page in the application.
 
-<img src="http://imgur.com/a/YQvjx" alt="Screenshot" style="display: inline; float: center"/>
+<img src="https://i.imgur.com/hG6IbPV.jpg" alt="Screenshot" style="display: inline; float: center"/>
 
 
 ##Prediction
