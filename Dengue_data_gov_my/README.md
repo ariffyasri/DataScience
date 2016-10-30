@@ -32,12 +32,19 @@ This application will also forecast the number of cases for the following year.
 
 ##Data Visualization
 
+
 The features in Dengue Alert are more to data visualization where the data will be display in a form of graph, heatmap and table. Below is the screenshot of our main page in the application.
+
+###Current Cases
+
 <p align="center">
 <img src="https://i.imgur.com/hG6IbPV.jpg" alt="Screenshot"  width="320"/>
 </p>
 
-In this section, it shows statistic from 2016, the number of current cases for one day and the total number of cases for the current year. From this statistic it is obvious that Selangor lead the total number of cases by 45,827 cases, followed by Johor with 9,776 cases. State with minimum cases goes to WP Labuan, maybe because of the population which is less than other states. Below the 2016 statistic is the number of cases and death of dengue from 2010 to 2015. Total number of cases is 245,570, and total number of death is 548.
+In this section, it shows statistic from 2016, the number of current cases for one day and the total number of cases for the current year. This is a real time data where we get it from http://idengue.remotesensing.gov.my/. From this statistic it is obvious that Selangor lead the total number of cases by 45,827 cases, followed by Johor with 9,776 cases. State with minimum cases goes to WP Labuan, maybe because of the population which is less than other states. Below the 2016 statistic is the number of cases and death of dengue from 2010 to 2015. Total number of cases is 245,570, and total number of death is 548. 
+
+
+###Total Cases and Death of Dengue
 
 Then go to the Total Cases section where it display the statistic of total cases and death between 2010 until 2015.
 
@@ -52,6 +59,9 @@ The total cases increase every year except for 2010 to 2011 where the cases decr
 </p>
 
 This graph show total death of dengue cases from 2010 to 2015. Same goes to the graph of dengue cases above, this graph also show increasing in number of death, which in 2015 is the highest total death, 293 cases. The lowest case is in year 2011 with 33 cases. Average death from 2010 to 2015 is 121.8 death because of dengue.
+
+
+###Cases Comparison
 
 Below is the graph for Cases Comparison section, where the total number of cases is visualized in radar. From the graph here we group some states except Selangor and Wilayah Persekutuan. 
 
@@ -80,9 +90,13 @@ Below is the graph for Cases Comparison section, where the total number of cases
   <td>SS</td>
   <td>Sabah, Serawak</td>
   </tr>
+ </table>
 	
 The reason why the states being group is because the total cases is too small compared to Selangor, when the graph is displayed for the first time (separate all the states), only Selangor can be seen in the graph. The other states is hidden from there because of small number in total of cases.
 
+###Google Trends x Total Number of Cases/Week (2010-2015)
+
+TO-DO
 
 ##Prediction
 
@@ -93,7 +107,7 @@ The reason why the states being group is because the total cases is too small co
 The above graph is for forecasting. Linear Regression technique is used to forecast where total population and increment of population are independent variable, while total number of dengue cases per week as dependent variable. In this graph, x-axis is Year, y-axis are total population, total number of dengue cases and total number of dengue cases predicted.
 
 <p align="center">
-<img src="http://i.imgur.com/RYEgf1w.png" alt="Screenshot"  width="320"/>
+<img src="http://i.imgur.com/RYEgf1w.png" alt="Screenshot"  width="640"/>
 </p>
 
 Below is the equation generated for Linear Regression technique:
