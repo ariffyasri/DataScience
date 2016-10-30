@@ -1,6 +1,16 @@
 #Dengue Alert Apps
 
-This android application developed during “48 Jam Hackathon Data Terbuka Sektor Awam 2016” organized by MAMPU. The hackathon start by 10.30 am, 25 Oct 2016 and en by 10.30 am, 27 Oct 2016.
+This application developed for program "48 jam Hackathon Data Terbuka Sektor Awam 2016" held by MAMPU. Thanks to all members in completing this application.
+
+Available in Play Store :
+<br>
+https://play.google.com/store/apps/details?id=com.noodle.denguealert&hl=en
+
+Team Members:
+<br>1. Muhamad Zarul Izham Bin Zubir
+<br>2. Muhammad Ariff Bin Yasri
+<br>3. Mohammad Asyraf Hakimi Bin Kamarul Azman
+<br>4. Muhammad Firdaus Bin Samad
 
 ##Introduction
 
@@ -29,6 +39,12 @@ This application will also forecast the number of cases for the following year.
 - "Denggi" keywords from 2010 to 2015
 
 ##Data Pre-Processing
+
+###Data Cleaning
+- Replace Missing Value in Total Cases and Death dataset with their mean value for each year (2010 - 2015)
+
+###Data Transformation
+- Transform name of places in Locality Hotspot dataset to coordinate of that places
 
 ##Data Visualization
 
