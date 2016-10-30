@@ -96,11 +96,15 @@ The reason why the states being group is because the total cases is too small co
 
 ###Google Trends x Total Number of Cases/Week (2010-2015)
 
+This is the interesting part where we want to relate google trend with keyword "denggi" and total cases of dengue. Surprisingly, they have the same pattern, when the cases is increase, the google trend of keyword "denggi" also increase. We can conclude that, Malaysian is like "Sudah terhantuk baru terngadah", when it happen to them or maybe their relatives or friends, only then they have the awareness to search about denggi. Maybe something like this <i>"Punca <b>denggi</b>", "Symptom <b>denggi</b>"</i> and etc.
+
 <p align="center">
 <img src="http://i.imgur.com/Gih47iV.png" alt="Screenshot"  width="640"/>
 </p>
 
 ###Heatmap
+
+Dengue Hotspot – Location where dengue cases last longer than 30 days
 
 <p align="center">
 <img src="http://i.imgur.com/vWEbOjt.png" alt="Screenshot"  width="640"/>
