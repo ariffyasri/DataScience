@@ -96,7 +96,15 @@ The reason why the states being group is because the total cases is too small co
 
 ###Google Trends x Total Number of Cases/Week (2010-2015)
 
-TO-DO
+<p align="center">
+<img src="http://i.imgur.com/Gih47iV.png" alt="Screenshot"  width="640"/>
+</p>
+
+###Heatmap
+
+<p align="center">
+<img src="http://i.imgur.com/vWEbOjt.png" alt="Screenshot"  width="640"/>
+</p>
 
 ##Prediction
 
