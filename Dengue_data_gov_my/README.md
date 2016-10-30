@@ -12,6 +12,11 @@ Team Members:
 <br>3. Mohammad Asyraf Hakimi Bin Kamarul Azman
 <br>4. Muhammad Firdaus Bin Samad
 
+Credit:
+- Madam Sofianita Mutalib - give idea on prediction using linear regression
+- AI Society Lecturers
+
+
 ##Introduction
 
 What is Dengue Alert?
