@@ -46,10 +46,32 @@ This application will also forecast the number of cases for the following year.
 ##Data Pre-Processing
 
 ###Data Cleaning
-- Replace Missing Value in Total Cases and Death dataset with their mean value for each year (2010 - 2015)
+<br>Tool : Microsoft Excel
+<br>Files : keskematiandenggi2010-2015.xlsx, kesdenggi2010-2015.xlsx
+ 
+<br>1. Search for missing values that is marked with 'na', like example below is from keskematiandenggi2010-2015.xlsx file.
+<br><p align="center">
+<img src="https://i.imgur.com/Zhzmpo6.png" alt="Screenshot"/>
+</p>
+
+<br>2. Replace the missing values with the mean value of each state. For example in 2010, the first 7 weeks have missing values. So the calculation to calcuale the average is :
+
+> Average_totaldeath_state2010 = (Sum(Week 8 :Week 52))/(52-7)
+
+<br>Result average for every state in 2010:
+
+<p align="center">
+<img src="https://i.imgur.com/0Hs6BNN.png" alt="Screenshot"/>
+</p>
+
+<br>3. Repeat this steps with other year if it has missing values.
 
 ###Data Transformation
-- Transform name of places in Locality Hotspot dataset to coordinate of that places
+
+<br>Tool : Microsoft Excel
+<br>File : mohdenggihotspot20102014v3.xlsx
+
+Transform name of places in Locality Hotspot dataset to coordinate of that places
 
 ##Data Visualization
 
