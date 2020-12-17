@@ -43,7 +43,7 @@ Notes:
     * https://github.com/huseinzol05/Malaya/blob/dc2160711625740573b5feb48d9d970dc704e763/finetune/bert/tf-estimator-text-classification.ipynb which using WordPiece tokenizer or 
     
     * https://github.com/huseinzol05/Malaya/blob/dc2160711625740573b5feb48d9d970dc704e763/pretrained-model/bert/how-to-classification.ipynb which using SentencePiece tokenizer
-2. Follow the steps
+2. Follow the steps or can go to [example](finetune-pretrained-model/)
     
     * If you want to create your own WordPiece tokenizer, you can go to here https://github.com/huseinzol05/Malaya/blob/dc2160711625740573b5feb48d9d970dc704e763/pretrained-model/bert/build-wordpiece.ipynb
 
